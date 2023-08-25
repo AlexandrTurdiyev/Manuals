@@ -1,5 +1,7 @@
 # Руководства и инструкции ко всему, чем я пользуюсь и что мне интересно
 ___
+## BackUps - резервные копии
+[Краткое руководство по клонированию системы](https://thinkmobiles.com/blog/ru/kak-klonirovat-hdd/)
 ## Google
 ### Google-sheets
 - [Google Forms](google-sheets-md/pages/google-forms/google-forms.md)
