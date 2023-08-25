@@ -4,7 +4,7 @@ ___
 [Краткое руководство по клонированию системы](https://thinkmobiles.com/blog/ru/kak-klonirovat-hdd/)
 ## Google
 ### Google-sheets
-- [Google Forms](google-sheets-md/pages/google-forms/google-forms.md)
+- [Google Forms](google-sheets-md/pages/google-forms/google-forms.md)  
 ___
 ## Электроника
 ### Модули, датчики для микроконтроллеров и отладочных плат
