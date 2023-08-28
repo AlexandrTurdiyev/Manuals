@@ -8,5 +8,7 @@ ___
 
 ___  
 ## Электроника
+### Электронные компоненты
+- [Транзисторы](electronics-md/electronic-components/transistors/transistors.md)
 ### Модули, датчики для микроконтроллеров и отладочных плат
 - [Модуль на транзисторе IRF520](electronics-md/debugging-boards-and-modules-md/modules/irf520-module/irf520-module.md)
