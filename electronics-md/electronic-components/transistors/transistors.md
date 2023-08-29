@@ -1,4 +1,5 @@
 # Транзисторы
 [На главную](../../../README.md)
 ___
-[MOSFET](mosfet/mosfet.md)
+- [MOSFET / Полевые / МОП-Транзисторы](mosfet/mosfet.md)
+- [Bipolar / Биполярные транзисторы](bipolar/bipolar-transistors.md)
